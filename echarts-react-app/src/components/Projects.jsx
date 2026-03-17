@@ -29,7 +29,7 @@ const Projects = () => {
               </a>
 
               <a
-                href="https://your-live-link.com"
+                href="https://your-jobportal-live-link.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -56,7 +56,11 @@ const Projects = () => {
                 GitHub
               </a>
 
-              <a href="#">
+              <a
+                href="https://abisaya-portfolio.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Live
               </a>
             </div>
@@ -80,7 +84,11 @@ const Projects = () => {
                 GitHub
               </a>
 
-              <a href="#">
+              <a
+                href="https://portfolioabisaya.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Live
               </a>
             </div>
@@ -89,7 +97,7 @@ const Projects = () => {
         </div>
 
       </div>
-    </section >
+    </section>
   );
 };
 
