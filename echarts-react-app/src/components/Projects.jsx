@@ -28,8 +28,13 @@ const Projects = () => {
                 GitHub
               </a>
 
-              <a href="https://github.com/AbisayaNepolian" target="_blank">GitHub</a> ✅                Live
-
+              <a
+                href="https://your-live-link.com"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Live
+              </a>
             </div>
           </div>
 
