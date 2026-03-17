@@ -1,7 +1,6 @@
 import React from "react";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { Typewriter } from "react-simple-typewriter";
-import { FaDownload } from "react-icons/fa";
 
 const Hero = () => {
     return (

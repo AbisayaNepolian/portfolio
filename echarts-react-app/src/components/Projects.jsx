@@ -15,7 +15,7 @@ const Projects = () => {
 
             <p>
               Full Stack Job Portal built with React, Spring Boot, and MySQL.
-              Users can browse jobs, search jobs and apply for jobs. 
+              Users can browse jobs, search jobs and apply for jobs.
               Admin can manage job postings.
             </p>
 
@@ -28,9 +28,8 @@ const Projects = () => {
                 GitHub
               </a>
 
-              <a href="#">
-                Live
-              </a>
+              <a href="https://github.com/AbisayaNepolian" target="_blank">GitHub</a> ✅                Live
+
             </div>
           </div>
 
@@ -39,7 +38,7 @@ const Projects = () => {
             <h3>Portfolio Website</h3>
 
             <p>
-              Personal developer portfolio built using React. 
+              Personal developer portfolio built using React.
               Shows skills, projects, and contact information.
             </p>
 
@@ -63,7 +62,7 @@ const Projects = () => {
             <h3>Spring Boot REST API</h3>
 
             <p>
-              REST API developed using Spring Boot for managing 
+              REST API developed using Spring Boot for managing
               user data with CRUD operations and MySQL database.
             </p>
 
@@ -85,7 +84,7 @@ const Projects = () => {
         </div>
 
       </div>
-    </section>
+    </section >
   );
 };
 
